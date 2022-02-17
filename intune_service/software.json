@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Snowflake32",
+    "ID": "605a8ab4-b256-4523-a86a-af118dc7b809",
+    "Bittness": 32,
+    "JobFileName": "Request-Snowflake32.ps1",
+    "InstalledVersion": "2.24.2",
+    "DownloadedVersion": "2.24.5",
+    "DownloadDate": "02.01.2022 16:42",
+    "LastCheckDate": "02.01.2022 16:42",
+    "InstallationProcedure": "msi"
+  },
+  {
+    "Name": "Snowflake64",
+    "ID": "363724de-6579-4c18-8a6b-9eb99f845dc6",
+    "Bittness": 64,
+    "JobFileName": "Request-Snowflake64.ps1",
+    "InstalledVersion": 0,
+    "DownloadedVersion": 0,
+    "DownloadDate": 0,
+    "LastCheckDate": "02.01.2022 16:42",
+    "InstallationProcedure": "msi"
+  }
+]
